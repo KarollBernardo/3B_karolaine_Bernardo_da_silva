@@ -25,7 +25,7 @@ public class menuPrincipalController implements Initializable {
     private TextField txtNumero1, txtNumero2, txtResultado;
     
     @FXML
-    private Button  btnSoma;
+    private Button btnSoma;
     
     @FXML
     private void soma(ActionEvent event) {
